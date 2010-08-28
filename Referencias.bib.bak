@@ -1,0 +1,41 @@
+% This file was created with JabRef 2.6.
+% Encoding: Cp1252
+
+@BOOK{CarvalhoPG,
+  title = {Ecologia, Sociedade, Estado e Desafio Ambiental},
+  publisher = {PUC},
+  year = {1995},
+  author = {Marcos Bernardino Carvalho and Carlos Walter Porto Gonçalves},
+  owner = {John},
+  timestamp = {2009.09.11}
+}
+
+@BOOK{Goncalves,
+  title = {Os Porquês da Desordem Mundial - Mestres Explicam a Globalização},
+  publisher = {Record},
+  year = {2004},
+  author = {Carlos Walter Porto Gonçalves},
+  owner = {John},
+  timestamp = {2009.09.12}
+}
+
+@BOOK{MiltonSantos,
+  title = {O Espaço do Cidadão},
+  publisher = {Nobel},
+  year = {1988},
+  author = {Milton Santos},
+  address = {São Paulo},
+  owner = {John},
+  timestamp = {2009.09.12}
+}
+
+@BOOK{LiztVieira,
+  title = {Cidadania e Globalização},
+  year = {2005},
+  author = {Lizt Vieira},
+  address = {Rio de Janeiro},
+  edition = {8},
+  owner = {John},
+  timestamp = {2009.09.12}
+}
+

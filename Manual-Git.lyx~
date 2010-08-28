@@ -1,0 +1,2653 @@
+#LyX 1.6.7 created this file. For more info see http://www.lyx.org/
+\lyxformat 345
+\begin_document
+\begin_header
+\textclass IEEEtran
+\begin_preamble
+\usepackage[font=small,tableposition=top]{caption}
+
+\hyphenation{so-cie-da-de}
+\end_preamble
+\use_default_options true
+\language brazilian
+\inputencoding auto
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_default_family default
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+
+\graphics default
+\paperfontsize default
+\spacing single
+\use_hyperref true
+\pdf_title "Relatório"
+\pdf_author "2953101 - John Ronson Leite Jasmim - john.robson@usp.br"
+\pdf_subject "Relatório"
+\pdf_keywords "Relatório"
+\pdf_bookmarks true
+\pdf_bookmarksnumbered false
+\pdf_bookmarksopen true
+\pdf_bookmarksopenlevel 2
+\pdf_breaklinks false
+\pdf_pdfborder true
+\pdf_colorlinks false
+\pdf_backref section
+\pdf_pdfusetitle true
+\papersize default
+\use_geometry false
+\use_amsmath 1
+\use_esint 1
+\cite_engine basic
+\use_bibtopic false
+\paperorientation portrait
+\branch Ativo
+\selected 1
+\color #faf0e6
+\end_branch
+\branch Inativo
+\selected 0
+\color #c8beb4
+\end_branch
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\defskip medskip
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\author "" 
+\author "" 
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+\begin_inset Branch Ativo
+status open
+
+\begin_layout Title
+\begin_inset Graphics
+	filename img/Logo_USP.jpg
+	lyxscale 12
+	scale 12
+	BoundingBox 0bp 4bp 150bp 61bp
+
+\end_inset
+
+
+\shape smallcaps
+\size small
+ - Universidade de São Paulo
+\begin_inset space \hfill{}
+\end_inset
+
+
+\shape default
+\size default
+
+\begin_inset Graphics
+	filename img/Logo_EACH.gif
+	lyxscale 25
+	scale 25
+	BoundingBox 0bp 15bp 150bp 45bp
+
+\end_inset
+
+
+\shape smallcaps
+\size small
+ - Escola de Artes, Ciências e Humanidades
+\shape default
+\size default
+
+\begin_inset Newline linebreak
+\end_inset
+
+
+\begin_inset Newline linebreak
+\end_inset
+
+
+\emph on
+Manual Git
+\emph default
+
+\begin_inset Newline linebreak
+\end_inset
+
+
+\end_layout
+
+\begin_layout Author
+
+\size normal
+Professor Doutor 
+\series bold
+Marcos Bernardino de Carvalho
+\series default
+ - Sociedade, Meio Ambiente e Cidadania - Turma 34
+\begin_inset Newline linebreak
+\end_inset
+
+
+\begin_inset Newline linebreak
+\end_inset
+
+2953101 - 
+\series bold
+John Robson Leite Jasmim
+\series default
+ - 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+john.robson@usp.br
+\end_layout
+
+\end_inset
+
+ - 
+\begin_inset Flex URL
+status collapsed
+
+\begin_layout Plain Layout
+
+http://lattes.cnpq.br/2099312315932531
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Branch Ativo
+status collapsed
+
+\begin_layout Standard
+
+\lyxline
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset CommandInset toc
+LatexCommand tableofcontents
+
+\end_inset
+
+
+\lyxline
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Branch Ativo
+status open
+
+\begin_layout Section*
+Objetivo desta Reflexão
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+addcontentsline{toc}{section}{Objetivo desta Reflexão}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Esta reflexão tem por objetivo analisar e ponderar sobre as aulas do Prof
+ Dr.
+ Marcos Bernardino de Carvalho a respeito de temas relacionados ao meio
+ ambiente, sociedade, poder do estado 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "CarvalhoPG"
+
+\end_inset
+
+, nossa atual ordem mundial 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Goncalves"
+
+\end_inset
+
+ e a visão geral do tema cidadania, direitos e globalização 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "LiztVieira,MiltonSantos"
+
+\end_inset
+
+.
+ Refletir sobre as idéias levantadas por estes autores não é uma tarefa
+ simples, pois estes temas são profundos, suas idéias são densas e a visualizaçã
+o do funcionamento de todo o sistema sócio-econômico-ambiental exige uma
+ compreensão tanto de fatos passados relacionados à construção de nossa
+ sociedade, quanto dos inúmeros fatos atuais que moldam nosso estilo de
+ vida.
+ Diante de tais desafios de interpretação e reflexão destes profundos temas,
+ as aulas do prof Marcos dão ao aluno o olhar preciso e correto, clareando
+ sua interpretação, norteando a direção à qual segue nossa sociedade e dando
+ liga ao entendimento destes diversos assuntos contemporâneos.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Branch Ativo
+status open
+
+\begin_layout Section
+Os Porquês da Desordem Mundial - Mestres Explicam a Globalização
+\end_layout
+
+\begin_layout Standard
+\begin_inset Branch Ativo
+status open
+
+\begin_layout Subsection
+A naturalização
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+naturalização
+\end_layout
+
+\end_inset
+
+ da globalização
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+globalização
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Desde que o homem pisou na Lua
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Lua
+\end_layout
+
+\end_inset
+
+ pela primeira vez o conceito abstrato de que somos um pequeno ponto no
+ meio do universo tornou-se real.
+ Porém este ponto é o que chamamos de Terra
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Terra
+\end_layout
+
+\end_inset
+
+ ou de Nosso Lar e é por si só sem fronteiras
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+fronteiras
+\end_layout
+
+\end_inset
+
+ entre os povos (fora as naturais como os oceanos e montanhas).
+\end_layout
+
+\begin_layout Standard
+Esse conceito de mundo sem fronteiras se faz mais presente nos dias de hoje
+ em que satélites
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+satélites
+\end_layout
+
+\end_inset
+
+ nos trazem a todo momento informações de todos os lugares do mundo, em
+ tempo real
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+tempo real
+\end_layout
+
+\end_inset
+
+; dessa forma temos a impressão de que nos tornamos uma comunidade global
+ e não somente regional
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+regional
+\end_layout
+
+\end_inset
+
+ ou nacional
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+nacional
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+Globalização
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Globalização
+\end_layout
+
+\end_inset
+
+ esta que se faz mais presente por meio das grandes empresas transnacionais
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+transnacionais
+\end_layout
+
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Coca-cola, GM, etc
+\end_layout
+
+\end_inset
+
+, dos bancos
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+bancos
+\end_layout
+
+\end_inset
+
+ internacionais
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+BIRD (Banco Internacional de Reconstrução e Desenvolvimento)
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+$^,$
+\end_layout
+
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+FMI (Fundo Monetário Internacional)
+\end_layout
+
+\end_inset
+
+ e de modo geral organizações de influência internacional
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+internacional
+\end_layout
+
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+OMC (Organização Mundial do Comércio)
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Branch Ativo
+status open
+
+\begin_layout Subsection
+Processo de transformações
+\end_layout
+
+\begin_layout Standard
+A globalização como conhecemos hoje é na verdade a evolução
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+evolução
+\end_layout
+
+\end_inset
+
+ de um longo processo no qual passou, pelo Manifesto Comunista
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Manifesto Combusta
+\end_layout
+
+\end_inset
+
+ de 1848 que foi combatido pela política capitalista
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+capitalista
+\end_layout
+
+\end_inset
+
+ dos EUA
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+EUA
+\end_layout
+
+\end_inset
+
+; por vários movimentos de luta pela queda das fronteiras
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+queda das fronteiras
+\end_layout
+
+\end_inset
+
+ e diversos outros de caráter iluminista
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+iluminista
+\end_layout
+
+\end_inset
+
+, burguês
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+burguês
+\end_layout
+
+\end_inset
+
+, marxista
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+marxista
+\end_layout
+
+\end_inset
+
+, anarquista
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+anarquista
+\end_layout
+
+\end_inset
+
+, ecologista
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+ecologista
+\end_layout
+
+\end_inset
+
+, etc.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Branch Ativo
+status open
+
+\begin_layout Subsection
+O espaço da natureza no mundo globalizado
+\end_layout
+
+\begin_layout Standard
+Quando o homem caiu em si que era apenas mais um ser vivo dependente de
+ todos os demais seres vivos, desfez-se a visão antropocêntrica
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+antropocêntrica
+\end_layout
+
+\end_inset
+
+ de dependência
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+dependência
+\end_layout
+
+\end_inset
+
+ e surgiu a idéia de interdependência
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+interdependência
+\end_layout
+
+\end_inset
+
+.
+ A partir de então a problemática ambiental passou a ser interpretada não
+ apenas como uma questão de ordem
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+ordem
+\end_layout
+
+\end_inset
+
+ ética
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+ordem!ética
+\end_layout
+
+\end_inset
+
+, filosófica
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+ordem!filosófica
+\end_layout
+
+\end_inset
+
+ e política
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+ordem!política
+\end_layout
+
+\end_inset
+
+, mas sobretudo e principalmente como a necessidade de soluções práticas
+ e técnicas para resolver os graves problemas de poluição
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+poluição
+\end_layout
+
+\end_inset
+
+, desmatamento
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+desmatamento
+\end_layout
+
+\end_inset
+
+, erosão
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+erosão
+\end_layout
+
+\end_inset
+
+, assoreamento
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+assoreamento
+\end_layout
+
+\end_inset
+
+, lixões
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+lixões
+\end_layout
+
+\end_inset
+
+ e demais agressões ao meio ambiente.
+\end_layout
+
+\begin_layout Standard
+Soluções estas muito longe de serem fáceis, pelo contrário, exigem em muito
+ um debate sério e uma realização imediata eficaz pois nosso planeta está
+ diante de graves riscos ambientais e os estados até o momento vem tomando
+ decisões pífias e pouco eficientes.
+ O que mais vemos são decisões não eficientes, mas como efeito placebo
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+placebo
+\end_layout
+
+\end_inset
+
+, ou seja, o de incitar na população a idéia de que estão sendo tomadas
+ soluções eficientes, porém que na verdade são apenas máscaras
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+máscaras
+\end_layout
+
+\end_inset
+
+ criadas pelos 
+\begin_inset Quotes eld
+\end_inset
+
+de cima
+\begin_inset Quotes erd
+\end_inset
+
+ para influenciar os 
+\begin_inset Quotes eld
+\end_inset
+
+de baixo
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Branch Ativo
+status open
+
+\begin_layout Section
+O que é cidadania?
+\end_layout
+
+\begin_layout Standard
+\begin_inset Branch Ativo
+status open
+
+\begin_layout Subsection
+Marshall e os direitos de cidadania
+\end_layout
+
+\begin_layout Standard
+\begin_inset Branch Ativo
+status open
+
+\begin_layout Subsubsection
+Direitos de primeira geração (estado mínimo)
+\end_layout
+
+\begin_layout Paragraph
+Direitos
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Direitos
+\end_layout
+
+\end_inset
+
+ civis
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Direitos!civis
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Direitos individuais
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Direitos!individuais
+\end_layout
+
+\end_inset
+
+ de liberdade
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Direitos!liberdade
+\end_layout
+
+\end_inset
+
+, igualdade
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Direitos!igualdade
+\end_layout
+
+\end_inset
+
+, propriedade
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Direitos!propriedade
+\end_layout
+
+\end_inset
+
+, de ir e vir
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Direitos!ir e vir
+\end_layout
+
+\end_inset
+
+, direito à vida
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Direitos!à vida
+\end_layout
+
+\end_inset
+
+, segurança
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Direitos!segurança
+\end_layout
+
+\end_inset
+
+, etc.
+\end_layout
+
+\begin_layout Paragraph
+Direitos políticos
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Direitos!políticos
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Liberdade de associação e reunião
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Direitos!Liberdade de associação e reunião
+\end_layout
+
+\end_inset
+
+, de organização política e sindical
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Direitos!organização política e sindical
+\end_layout
+
+\end_inset
+
+, à participação política e eleitoral
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Direitos!participação política e eleitoral
+\end_layout
+
+\end_inset
+
+, ao sufrágio universal
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Direitos!sufrágio universal
+\end_layout
+
+\end_inset
+
+, etc.
+ Também chamados de direitos individuais exercidos coletivamente
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+coletivamente
+\end_layout
+
+\end_inset
+
+, e acabaram se incorporando à tradição liberal.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Branch Ativo
+status open
+
+\begin_layout Subsubsection
+Direitos de segunda geração (estado forte)
+\end_layout
+
+\begin_layout Standard
+Direitos sociais
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Direitos!sociais
+\end_layout
+
+\end_inset
+
+, econômicos
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Direitos!econômicos
+\end_layout
+
+\end_inset
+
+ ou de crédito
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Direitos!de crédito
+\end_layout
+
+\end_inset
+
+: direito ao trabalho
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Direitos!ao trabalho
+\end_layout
+
+\end_inset
+
+, saúde
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Direitos!saúde
+\end_layout
+
+\end_inset
+
+, educação
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Direitos!educação
+\end_layout
+
+\end_inset
+
+, aposentadoria
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Direitos!aposentadoria
+\end_layout
+
+\end_inset
+
+, seguro-desemprego
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Direitos!seguro-desemprego
+\end_layout
+
+\end_inset
+
+ e a garantia de acesso aos meios de vida e bem-estar social
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Direitos!garantia de acesso aos meios de vida e bem-estar social
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Branch Ativo
+status open
+
+\begin_layout Subsubsection
+Direitos de terceira geração (grupo sobre o indivíduo)
+\end_layout
+
+\begin_layout Standard
+Diretos dos grupos humanos
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Direitos!dos grupos humanos
+\end_layout
+
+\end_inset
+
+ como: o povo, a nação, coletividades étnicas ou a própria humanidade: direito
+ à autodeterminação dos povos
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Direitos!à autodeterminação dos povos
+\end_layout
+
+\end_inset
+
+, direito ao desenvolvimento
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Direitos!direito ao desenvolvimento
+\end_layout
+
+\end_inset
+
+, direito à paz
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Direitos!à paz
+\end_layout
+
+\end_inset
+
+, direito ao meio ambiente
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Direitos!ao meio ambiente
+\end_layout
+
+\end_inset
+
+, etc.
+\end_layout
+
+\begin_layout Paragraph
+Novos movimentos sociais (interesses difusos)
+\end_layout
+
+\begin_layout Standard
+Direito ao meio ambiente e direito ao consumidor
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Direitos!ao consumidor
+\end_layout
+
+\end_inset
+
+; direitos das mulheres
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Direitos!das mulheres
+\end_layout
+
+\end_inset
+
+, das crianças
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Direitos!das crianças
+\end_layout
+
+\end_inset
+
+, das minorias étnicas
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Direitos!das minorias étnicas
+\end_layout
+
+\end_inset
+
+, dos jovens
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Direitos!dos jovens
+\end_layout
+
+\end_inset
+
+, dos anciãos
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Direitos!dos anciãos
+\end_layout
+
+\end_inset
+
+, etc.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Branch Ativo
+status open
+
+\begin_layout Subsubsection
+Direitos de quarta geração (pré-vida sobre a vida)
+\end_layout
+
+\begin_layout Standard
+Impedir a destruição da vida
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Direitos!Impedir a destruição da vida
+\end_layout
+
+\end_inset
+
+ e regular a criação de novas formas de vida em laboratório pela engenharia
+ genética.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Branch Ativo
+status open
+
+\begin_layout Subsection
+Interpretações de cidadania
+\end_layout
+
+\begin_layout Standard
+\begin_inset Branch Ativo
+status open
+
+\begin_layout Subsubsection
+O que vale para alguns não vale para outros
+\end_layout
+
+\begin_layout Standard
+Temos vários exemplos de formas de cidadania parcial, onde dentro de um
+ mesmo estado, nação ou império os direitos e privilégios eram garantidos
+ para um determinado grupo de pessoas e para outros não; como por exemplo
+ nas cidades estados gregas
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+cidades estados gregas
+\end_layout
+
+\end_inset
+
+ e no império romano
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+império romano
+\end_layout
+
+\end_inset
+
+ em que cidadãos conviviam juntamente com escravos
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+escravos
+\end_layout
+
+\end_inset
+
+ que junto com os estrangeiros
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+estrangeiros
+\end_layout
+
+\end_inset
+
+ e mulheres
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+mulheres
+\end_layout
+
+\end_inset
+
+ não tinham qualquer direito, ou então tinham direitos muito limitados e
+ restritos; outro exemplo mais recente do império britânico
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+império britânico
+\end_layout
+
+\end_inset
+
+ cujos cidadãos tinham e exigiam seus direitos de cidadãos ingleses, porém
+ desprezava os direitos civis em suas colônias.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Branch Ativo
+status open
+
+\begin_layout Subsubsection
+Religião e cidadania
+\end_layout
+
+\begin_layout Standard
+A religião teve um forte papel no desenvolvimento da cidadania, porém nem
+ sempre com o mesmo posicionamento.
+ Calvin
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Calvin
+\end_layout
+
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+John Calvin
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+John Calvin
+\end_layout
+
+\end_inset
+
+ (1509-1564) teólogo e reformista francês de origem suíça, líder do movimento
+ reformista protestante.
+\end_layout
+
+\end_inset
+
+ defendeu a sociedade frente o estado, porém Lutero
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Lutero
+\end_layout
+
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Martinho Lutero (Eisleben, 10 de novembro de 1483 — Eisleben, 18 de fevereiro
+ de 1546) foi um monge agostiniano alemão, teólogo, professor universitário,
+ "Pai do Protestantismo", e reformista da Igreja Católica, cujas idéias
+ influenciaram a Reforma Protestante e mudaram o curso da Civilização ocidental.
+\end_layout
+
+\end_inset
+
+ defendeu a obediência ao estado, em outra posição a teoria agostiniana
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Relativo a Santo Agostinho
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Santo Agostinho
+\end_layout
+
+\end_inset
+
+ (santo católico).
+\end_layout
+
+\end_inset
+
+ se posicionou afastada da política, pois a cidade é dos homens e ela é
+ má.
+ De modo geral o catolicismo
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+catolicismo
+\end_layout
+
+\end_inset
+
+ trouxe um fraco senso de identidade e cidadania ao contrário do protestantismo
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+protestantismo
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Branch Ativo
+status open
+
+\begin_layout Subsubsection
+Público 
+\emph on
+vs
+\emph default
+ Privado
+\end_layout
+
+\begin_layout Standard
+A tradição cívica coloca-se mais do ponto de vista do Estado do que do cidadão;
+ ou seja os direitos do indivíduo e os deveres do estado necessitam de um
+ elemento que os una para que se tenha o sentimento de comunidade, de identidade
+ coletiva; pois o predomínio do público sobre o privado e vice-versa gera
+ a inviabilização do outro; ou seja, trata-se de se buscar a integração
+ da solidariedade familiar, existente no espaço doméstico, com as regras
+ impessoais, racionais, das instituições públicas; dessa forma levando a
+ casa para a rua.
+ 
+\end_layout
+
+\begin_layout Standard
+Nesse processo o conceito básico de civismo ou cidadania é composto por:
+ 
+\end_layout
+
+\begin_layout Enumerate
+a inteligibilidade
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+inteligibilidade
+\end_layout
+
+\end_inset
+
+ do mundo político pelo cidadão;
+\end_layout
+
+\begin_layout Enumerate
+a empatia
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+empatia
+\end_layout
+
+\end_inset
+
+ enquanto capacidade de colocar-se no lugar de outros cidadãos para aprender
+ seus interesses e justificações;
+\end_layout
+
+\begin_layout Enumerate
+a civilidade
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+civilidade
+\end_layout
+
+\end_inset
+
+ que se refere ao reconhecimento interindividual.
+\end_layout
+
+\begin_layout Standard
+A partir deste processo a conduta de uma pessoa cuja autoconsciência
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+autoconsciência
+\end_layout
+
+\end_inset
+
+ individual está parcialmente sobre-determinada por sua autoconsciência
+ coletiva, gerará o que Montesquieu
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Montesquieu
+\end_layout
+
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Charles Louis de Secondat Montesquieu (1689-1755), escritor e filósofo político
+ francês que recebeu o título de "Barão de la Brede et de Montesquieu" 
+\end_layout
+
+\end_inset
+
+ chamou de 
+\begin_inset Quotes eld
+\end_inset
+
+Amor à República e a Democracia
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Branch Ativo
+status open
+
+\begin_layout Subsection
+A reconstrução da cidadania
+\end_layout
+
+\begin_layout Standard
+\begin_inset Branch Ativo
+status open
+
+\begin_layout Subsubsection
+O Estado, a Sociedade e o Homem
+\end_layout
+
+\begin_layout Standard
+Devido à incompatibilidade entre a monarquia absoluta
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+monarquia absoluta
+\end_layout
+
+\end_inset
+
+ e a cidadania, a idéia republicana de cidadania se inspirou na democracia
+ grega
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+democracia grega
+\end_layout
+
+\end_inset
+
+ e na república romana
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+república romana
+\end_layout
+
+\end_inset
+
+, buscando liberdade: civil, de opinião, de associação e decisão política.
+ Esta reconstrução buscava o deslocamento da soberania
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+soberania
+\end_layout
+
+\end_inset
+
+ do monarca para as mãos do povo; mudando o conceito de vontade singular
+ do príncipe para a vontade geral do povo.
+ Essa remodelação da cidadania criou uma nova definição em que pelo princípio
+ do direito dos povos, a soberania é atributo da Nação, do povo, e não do
+ príncipe ou monarca.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Branch Ativo
+status open
+
+\begin_layout Subsubsection
+A cidadania em nossos dias
+\end_layout
+
+\begin_layout Standard
+Em uma era globalizada falar de cidadania não é mais limitá-la ao âmbito
+ nacional, de um território ou região, mas sim de uma ordem internacional
+ em que os problemas que afetam a humanidade e o planeta atravessam fronteiras
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+fronteiras
+\end_layout
+
+\end_inset
+
+ e tornam-se transnacionais
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+transnacionais
+\end_layout
+
+\end_inset
+
+, sendo partilhados por todos nós.
+ Problemas como produção
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+produção
+\end_layout
+
+\end_inset
+
+, comércio
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+comércio
+\end_layout
+
+\end_inset
+
+, pobreza
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+pobreza
+\end_layout
+
+\end_inset
+
+, fome
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+fome
+\end_layout
+
+\end_inset
+
+, danos ambientais
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+danos ambientais
+\end_layout
+
+\end_inset
+
+, desemprego
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+desemprego
+\end_layout
+
+\end_inset
+
+ e demais questões sociais e econômicas devem ser também tratadas na esfera
+ internacional, tornando o indivíduo de hoje um cidadão do mundo onde todos
+ formamos uma emergente e verdadeira cidadania planetária
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+cidadania planetária
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset Branch Ativo
+status open
+
+\begin_layout Section
+O cidadão, o não-cidadão e o consumidor
+\end_layout
+
+\begin_layout Standard
+\begin_inset Branch Ativo
+status open
+
+\begin_layout Subsection
+Alguns cidadãos são mais cidadãos que outros
+\end_layout
+
+\begin_layout Standard
+Cidadãos são todos quantos fazem parte de uma nação ou estado que reconheça,
+ estabeleça e garanta à sua sociedade os direitos básicos às necessidades
+ do ser humano.
+ Como vimos nos parágrafos acima somente em meados do séc.
+ XX o terceiro conjunto de direitos - os direitos sociais - garantiria aos
+ indivíduos um padrão de vida decente, uma proteção mínima contra a pobreza
+ e a doença, assim como uma participação na herança social
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+herança social
+\end_layout
+
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+O exercício desses direitos é, ainda hoje, privilégio dos países já integrados
+ ao sistema 
+\emph on
+Welfare State
+\emph default
+
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+welfare state
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+.
+ Porém esses direitos não igualmente garantidos à todos.
+\end_layout
+
+\begin_layout Standard
+Dentre os países há diferentes respostas quanto aos direitos que são considerado
+s essenciais aos seus cidadãos e dentro dos próprios países, estes por sua
+ vez países subdesenvolvidos
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+subdesenvolvidos
+\end_layout
+
+\end_inset
+
+ há uma grande diferença de classes sociais que torna alguns, mais e outros
+ menos cidadãos; sendo que muitos nem ao menos são respeitados pelo Estado
+ como cidadãos.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Branch Ativo
+status open
+
+\begin_layout Subsection
+Da inexistência do cidadão ao nascimento do não-cidadão
+\end_layout
+
+\begin_layout Standard
+Nosso país nos anos 50 à 80 em menos de duas gerações passou por inúmeras
+ transformações econômicas, que produziram um rápido crescimento, porém
+ este crescimento, não sustentável, fundado em certos setores produtivos
+ e baseado em certos lugares, veio a agravar a concentração de riqueza
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+concentração de riqueza
+\end_layout
+
+\end_inset
+
+ e as injustiças
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+injustiças
+\end_layout
+
+\end_inset
+
+ (já grandes) de sua distribuição; gerando dessa forma grandes fluxos migratório
+s para áreas do sudeste causando o esvaziamento de regiões no nordeste,
+ além do surgimento de bolsões de pobreza
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+bolsões de pobreza
+\end_layout
+
+\end_inset
+
+ periféricos aos grandes centros e com isso enormes desigualdades sociais
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+desigualdades sociais
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+A classe média
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+classe média
+\end_layout
+
+\end_inset
+
+ que também se definia neste período já nascia debaixo das influências da
+ busca da ascensão social e material em detrimento do sentido de cidadania,
+ no lugar do cidadão surgia o consumidor
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+consumidor
+\end_layout
+
+\end_inset
+
+ ou usuário
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+usuário
+\end_layout
+
+\end_inset
+
+ do que se era oferecido pelas empresas.
+ Essa oferta ao consumo de massa, valeu-se da mídia
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+mídia
+\end_layout
+
+\end_inset
+
+ para impor seus gostos e preços; orientando o desejo dos indivíduos; tornando
+ seus projetos, sonhos e realizações voltados para os objetivos das grandes
+ empresas; substituindo a cultura popular
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+cultura popular
+\end_layout
+
+\end_inset
+
+ pela cultura de massas
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+cultura de massas
+\end_layout
+
+\end_inset
+
+.
+ Como nem todos conseguem atingir este sonho de consumo surge o consumidor
+ insatisfeito, aquele que sempre buscará sem alcançar este 
+\begin_inset Quotes eld
+\end_inset
+
+sonho
+\begin_inset Quotes erd
+\end_inset
+
+ inatingível e intangível.
+ Esse estado de super-informação
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+super-informação
+\end_layout
+
+\end_inset
+
+ contínua da mídia e da sub-informação
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+sub-informação
+\end_layout
+
+\end_inset
+
+ crônica da população é o que caracteriza nossas sociedades contemporâneas
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+sociedades contemporâneas
+\end_layout
+
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Branch Ativo
+status open
+
+\begin_layout Subsection
+Moda: a religião do consumo e sua alienação
+\end_layout
+
+\begin_layout Standard
+Dentre diversas características que podem diferenciar as colonizações do
+ Brasil
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+Brasil
+\end_layout
+
+\end_inset
+
+ (ou generalizando para toda a América Latina
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+América Latina
+\end_layout
+
+\end_inset
+
+) e dos EUA
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+EUA
+\end_layout
+
+\end_inset
+
+; podemos citar as de ordem religiosa
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+ordem religiosa
+\end_layout
+
+\end_inset
+
+ como nossa colonização ser católica
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+católica
+\end_layout
+
+\end_inset
+
+ e a dos EUA ser protestante
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+protestante
+\end_layout
+
+\end_inset
+
+; ordem étnica
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+ordem étnica
+\end_layout
+
+\end_inset
+
+, tendo nossas origens de predominância ibérica
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+ibérica
+\end_layout
+
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Portugueses e espanhóis.
+\end_layout
+
+\end_inset
+
+, africana
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+africana
+\end_layout
+
+\end_inset
+
+ e indígena
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+indígena
+\end_layout
+
+\end_inset
+
+; enquanto nos EUA predominava a anglo-saxã
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+anglo-saxã
+\end_layout
+
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+Anglo-Saxão, membro de um dos povos germânicos da Inglaterra antes do século
+ XII; seu idioma, inglês antigo; pessoa inglesa; dos anglo-saxões.
+\end_layout
+
+\end_inset
+
+.
+ Porém independente dessas características, nossas diferenças se tornam
+ irrelevantes quando analisamos a enorme influência que o 
+\begin_inset Quotes eld
+\end_inset
+
+consumo conspícuo
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+consumo conspícuo
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+ tem em todo lugar do globo.
+\end_layout
+
+\begin_layout Standard
+Se a religião teve forte influência na colonização
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+colonização
+\end_layout
+
+\end_inset
+
+ e desenvolvimento
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+desenvolvimento
+\end_layout
+
+\end_inset
+
+ desses países; hoje em dia o que mais exerce dominação sobre os indivíduos
+ é o consumo
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+consumo
+\end_layout
+
+\end_inset
+
+, que os domina e os regula, impondo os mais minuciosos detalhes de suas
+ roupas
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+roupas
+\end_layout
+
+\end_inset
+
+, atitudes, objetos de consumo e desejo, fazendo-os regularem suas vidas
+ e ações pelos interesses e objetivos de outros, tanto de outros indivíduos
+ (como em grupos sociais que para se aceitos deve-se viver segundo suas
+ regras) quando da tirania
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+tirania
+\end_layout
+
+\end_inset
+
+ da mídia e das grandes corporações que por meio da moda manipulam e movimentam
+ as massas para que as mesmas ajam segundo seus preceitos; esses por sua
+ vez ditados pela moda.
+\end_layout
+
+\begin_layout Standard
+Em nossos dias nada movimenta mais a economia, nada mais exerce tamanha
+ influência e nada mais afasta os indivíduos da característica de cidadãos
+ que a religião
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+religião
+\end_layout
+
+\end_inset
+
+ do século XXI que é a moda
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+moda
+\end_layout
+
+\end_inset
+
+; influenciadas pela mídia multidões vivem suas vidas seguindo os ditames
+ e regras outorgadas
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+outorgadas
+\end_layout
+
+\end_inset
+
+ pela moda, exigindo sempre a roupa da estação (que todo ano, mesmo sendo
+ a mesma estação é completamente diferente), o carro do ano que 
+\begin_inset Quotes eld
+\end_inset
+
+quem tem, fez por merecer
+\begin_inset Quotes erd
+\end_inset
+
+ e o celular MP3
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+MP3
+\end_layout
+
+\end_inset
+
+, MP4, MP1000.
+\end_layout
+
+\begin_layout Standard
+Todo este consumo desenfreado
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+consumo desenfreado
+\end_layout
+
+\end_inset
+
+ cria seres alienados
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+alienados
+\end_layout
+
+\end_inset
+
+ onde o processo de confronto e análise consciente do mundo cede lugar a
+ reações imediatistas, quase mecânicas, nas quais é insípido o papel da
+ consciência, do pensamento e dos próprios sentimentos, formando o 
+\begin_inset Quotes eld
+\end_inset
+
+homem fabricado
+\begin_inset Quotes erd
+\end_inset
+
+
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+homem fabricado
+\end_layout
+
+\end_inset
+
+
+\begin_inset Foot
+status collapsed
+
+\begin_layout Plain Layout
+O homem fabricado 
+\begin_inset Quotes eld
+\end_inset
+
+poderia ter a ilusão de formar decisões livres.
+ Ele não seria - falando rigorosamente - um autômato, privado de consciência,
+ ao serviço de um homem, mas um indivíduo cuja própria estrutura e quase-consciê
+ncia seriam um reflexo das escolhas e das decisões de algum outro.
+\begin_inset Quotes erd
+\end_inset
+
+ (F.
+ Perroux, 1970, pp.
+ 131-132)
+\end_layout
+
+\end_inset
+
+ cujo conhecimento é fragmentado e a realidade distorcida; nesse quadro
+ de vida, a existência é vivida não tanto para a consagração dos valores,
+ mas para a busca das coisas: o produtor se tornando submisso ao objeto
+ produzido; é o produto que ganha em poder, enquanto o trabalhador se despoja
+ do seu próprio valor e poder.
+\end_layout
+
+\end_inset
+
+
+\begin_inset Branch Ativo
+status open
+
+\begin_layout Subsection
+O bom e o mau consumidor (do ponto de vista da empresa)
+\end_layout
+
+\begin_layout Standard
+Falar de direitos do consumidor
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+direitos do consumidor
+\end_layout
+
+\end_inset
+
+ é antes de mais nada refletir se realmente são direitos e se estes são
+ para o bem do consumidor, pois se o Consumo é um 
+\begin_inset Quotes eld
+\end_inset
+
+deus
+\begin_inset Quotes erd
+\end_inset
+
+, a Moda sua principal 
+\begin_inset Quotes eld
+\end_inset
+
+religião
+\begin_inset Quotes erd
+\end_inset
+
+, os 
+\emph on
+Shopping Centers
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+
+\emph on
+Shopping Centers
+\end_layout
+
+\end_inset
+
+
+\emph default
+ suas 
+\begin_inset Quotes eld
+\end_inset
+
+catedrais
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+catedrais
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+, por certo os órgãos de defesa ao consumidor
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+órgãos de defesa ao consumidor
+\end_layout
+
+\end_inset
+
+ deveriam ser o 
+\begin_inset Quotes eld
+\end_inset
+
+diabo
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+diabo
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+ desta seita de nossos dias; porém como o poder das empresas é tamanho grande,
+ até 
+\begin_inset Quotes eld
+\end_inset
+
+esse diabo
+\begin_inset Quotes erd
+\end_inset
+
+ trabalha a favor do consumo; pois mesmo os órgãos de defesa ao consumidor
+ não atacam o consumo, pelo contrário, sua finalidade é garantir ao consumidor
+ as melhores condições de compra, para que possam ter mais confiança na
+ sua prática; informando sobre as melhores empresas e os produtos de melhor
+ qualidade, etc.
+\end_layout
+
+\begin_layout Standard
+Qualidade de produto e defesa nem sempre respeitadas, pois as manipulações
+ de indústrias e de intermediários tornam os consumidores em geral inermes
+ diante das práticas de 
+\begin_inset Quotes eld
+\end_inset
+
+obsolescência original
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+obsolescência original
+\end_layout
+
+\end_inset
+
+
+\begin_inset Quotes erd
+\end_inset
+
+ das empresas que enganam fraudulentamente o comprador com a apresentação
+ de produtos deliberadamente destinados a durar muito pouco; somente restando
+ ao consumidor a conformidade com a espoliação
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+espoliação
+\end_layout
+
+\end_inset
+
+, o desconhecimento do direito de reclamar e a descrença de que a reclamação
+ seja realmente atendida.
+\end_layout
+
+\begin_layout Standard
+Porém os poucos indivíduos que sustém seus direitos de cidadão e desafiam
+ os mandamentos de mercado do consumo, tornam-se consumidores imperfeitos
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+consumidores imperfeitos
+\end_layout
+
+\end_inset
+
+; delineando uma ponte que, se há realmente os direitos do consumidor, por
+ certo é de garantia do indivíduo ter seus direitos do cidadão respeitados
+ para que não seja obrigado a se submeter as regras impostas pelas grandes
+ corporações
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+corporações
+\end_layout
+
+\end_inset
+
+.
+ Vemos dessa forma que o verdadeiro direito do cidadão não vem do estado,
+ mas sim de si próprio que pela sua consciência e desalineação
+\begin_inset Index
+status collapsed
+
+\begin_layout Plain Layout
+desalineação
+\end_layout
+
+\end_inset
+
+ que lhe permite compreender a estrutura do aparelho de consumo e as estruturas
+ dos poderes intersubjetivos em que vivemos imersos em nossa sociedade consumist
+a.
+ Essa consciência direciona o indivíduo à conquista de uma personalidade
+ forte, capaz de romper com os preconceitos e em grupos sua força é multiplicada
+ e permite a instalação destes princípios na sociedade.
+ É necessário estar atento à mudanças na forma de atuação dos grandes conglomera
+dos do consumo; estes se adaptarão ao contexto e talvez comercializem a
+ própria cidadania.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Newpage newpage
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Branch Ativo
+status open
+
+\begin_layout Section*
+Conclusões
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+
+\backslash
+addcontentsline{toc}{section}{Conclusões}
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+Não podemos analisar a globalização apenas como um evento atual, mas sim
+ como a evolução de um longo processo de mudanças que ocorrem desde o séc
+ XIX.
+ Nascido concomitantemente com a globalização foi o direito do homem de
+ ser reconhecido como um cidadão e de ter o direito a um padrão de vida
+ decente, uma proteção mínima contra a pobreza e a doença.
+ A garantia destes direitos junto com o crescimento da economia permitiu
+ a ascensão social e material em detrimento do sentido de cidadania, e no
+ lugar do antigo cidadão surgia o consumidor.
+ Nossa atual sociedade muitas vezes é cegada pelo consumo, pelo regrismo
+ da ascensão social e material.
+ A reconstrução desta cidadania perdida dá-se pela desalineação deste consumidor
+ e sua conscientização de não submeter-se às regras impostas pelas grandes
+ corporações e pela sociedade, permitindo-lhe a conquista de uma personalidade
+ forte e o resgate de seus direitos, os direitos de todos os seres humanos.
+ A leitura destes textos, permite que o aluno possa refletir sobre os reais
+ significados do 
+\begin_inset Quotes eld
+\end_inset
+
+Ser Cidadão
+\begin_inset Quotes erd
+\end_inset
+
+.
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\begin_inset Branch Ativo
+status open
+
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "Referencias"
+options "abnt-alf"
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
